@@ -1,5 +1,5 @@
 pycryptodome==3.23.0
 pytest==8.1.0
-typer==0.24.1
+typer==0.20.1
 rich==14.3.3
 ruff==0.15.5
